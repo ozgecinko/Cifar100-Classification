@@ -1,5 +1,5 @@
 # CIFAR-100 Classification
-This is a classification project based on custom classes from CIFAR-100 dataset according to my student ID number for deep learning lecture of Sakarya University. 
+This is a classification project based on custom classes of CIFAR-100 dataset according to my student ID number for deep learning lecture of Sakarya University. 
 
 Classes determined by my student ID number:
 
