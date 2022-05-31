@@ -4,14 +4,13 @@ This is a classification project based on custom classes of CIFAR-100 dataset ac
 Classes determined by my student ID number:
 
 **[19 = cattle, 22 = clock, 37 = house, 49 = mountain, 61 = plate, 86 = telephone, 90 = train]**
-
+![image](https://user-images.githubusercontent.com/58422765/171261868-dca6c13b-f996-48a0-9244-d44b1c6e6f86.png)
 
 ### Model Loss and Accuracy Graph for Training and Validation
 ![image](https://user-images.githubusercontent.com/58422765/166117632-18bc6c79-02ce-4a51-9492-fd1beb1984bf.png)
 Final Accuracy: 75.57%
 
 ### Confusion Matrix
-
 ![image](https://user-images.githubusercontent.com/58422765/166117575-ed0d2a5d-b720-4890-aae9-8b3e3802748b.png)
 
 
